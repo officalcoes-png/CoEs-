@@ -69,4 +69,4 @@ This tool is intended for educational and protective purposes only. Do not use i
 
 ## 🧠 Credits
 
-Built by **Colin**, a fifth-grade developer from Germany who specializes in privacy-first systems, manual control, and ritual-based access logic. This tool is part of the **CoEs ecosystem**, designed for secure, badge-worthy scripting.
+Built by **CoEs Group**, a fifth-grade developer from Germany who specializes in privacy-first systems, manual control, and ritual-based access logic. This tool is part of the **CoEs eassystem**, designed for secure, badge-worthy scripting.
